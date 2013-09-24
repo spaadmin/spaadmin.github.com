@@ -27,7 +27,7 @@ OpenSpending.Styles.Cofog = {
   '204': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#0AB971' },
   '205': { icon: 'icons/vote.svg', color: '#C75746', bcolor: '#0AB971' },
   '206': { icon: 'icons/books.svg', color: '#C75746', bcolor: '#0AB971' },
-  '3': { icon: 'icons/c_fukusi.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '3': { icon: 'icons/c_fukushi.svg', color: '#C75746', bcolor: '#4E6D00' },
   '301': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#4E6D00' },
   '302': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#4E6D00' },
   '303': { icon: 'icons/pio_mio.svg', color: '#C75746', bcolor: '#4E6D00' },
@@ -41,7 +41,7 @@ OpenSpending.Styles.Cofog = {
   '601': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#EC2406' },
   '602': { icon: 'icons/car.svg', color: '#C75746', bcolor: '#EC2406' },
   '603': { icon: 'icons/sangyou3.svg', color: '#C75746', bcolor: '#EC2406' },
-  '604': { icon: 'icons/community.svg', color: '#C75746', bcolor: '#EC2406' },nimo
+  '604': { icon: 'icons/community.svg', color: '#C75746', bcolor: '#EC2406' },
   '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
   '7-1': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
   '8': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
